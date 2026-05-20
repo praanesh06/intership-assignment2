@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/intership-assignment2/static/css/main.7d8938a6.css",
-    "main.js": "/intership-assignment2/static/js/main.328113e7.js",
+    "main.js": "/intership-assignment2/static/js/main.4d472a3c.js",
     "index.html": "/intership-assignment2/index.html",
     "main.7d8938a6.css.map": "/intership-assignment2/static/css/main.7d8938a6.css.map",
-    "main.328113e7.js.map": "/intership-assignment2/static/js/main.328113e7.js.map"
+    "main.4d472a3c.js.map": "/intership-assignment2/static/js/main.4d472a3c.js.map"
   },
   "entrypoints": [
     "static/css/main.7d8938a6.css",
-    "static/js/main.328113e7.js"
+    "static/js/main.4d472a3c.js"
   ]
 }
